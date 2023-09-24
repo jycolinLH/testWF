@@ -4,5 +4,6 @@ public class Bonjour
   {
     System.out.println("Bonjour !");
     // Commentaire ajouté
+    System.out.println("Bienvenu");
   }
 }
