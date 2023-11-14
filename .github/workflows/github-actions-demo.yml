@@ -15,6 +15,4 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-      - run: echo "JYC: compil java"
-      - run: echo "JYC: fin compil java"
       - run: echo "🍏 This job's status is ${{ job.status }}."
